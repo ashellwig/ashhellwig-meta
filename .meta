@@ -1,0 +1,5 @@
+{
+  "projects": {
+    "client/ashhellwig-vue": "git@github.com:ashellwig/ashhellwig-vue.git"
+  }
+}
