@@ -1,5 +1,6 @@
 {
   "projects": {
-    "client/ashhellwig-vue": "git@github.com:ashellwig/ashhellwig-vue.git"
+    "client/ashhellwig-vue": "git@github.com:ashellwig/ashhellwig-vue.git",
+    "server/ashhellwig-spring": "git@github.com:ashellwig/ashhellwig-spring.git"
   }
 }
